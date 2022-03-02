@@ -9,3 +9,5 @@ Below is a sample of a SDR# screenshot, using a 31mm wire antenna with the nRF24
 While the SUP-2400 downconverts exactly by 2.4GHz (so a 2.457GHz signal is 57MHz), most MMDS downconverters use a different center frequency (e.g. 1.998GHz), so that needs to be taken into account
 
 Good news for me: my SUP-2400 downconverter worked, and the shift is really close to 2400MHz (can also be the either the cheap nRF24 module or the RTL-SDR off by a tiny amount) :)
+
+![alt text](https://github.com/robcazzaro/nRF24L01-SDR-testing/raw/main/SDR_nRF24.png "SUP-2400, RTL_SDR and nRF24L01")
